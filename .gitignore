@@ -1,0 +1,52 @@
+# Byte-compiled / optimized / DLL files for Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C++ and C object files
+*.o
+*.obj
+*.lo
+*.la
+*.al
+*.libs
+*.so
+*.a
+*.dylib
+*.lib
+*.dll
+*.exe
+
+# C++ and C debug files
+*.dSYM/
+*.dSYM/*
+
+# Python virtual environment
+venv/
+env/
+
+# Python cache files
+*.egg-info/
+*.eggs/
+*.egg
+
+# CMake build directory
+build/
+
+# General backup files
+*~
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# MacOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
